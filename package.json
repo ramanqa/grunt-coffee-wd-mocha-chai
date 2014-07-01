@@ -1,0 +1,14 @@
+{
+  "name": "grunt-coffee-wd-mocha-chai",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "latest",
+    "coffee-script": "latest",
+    "wd": "latest",
+    "grunt-mocha-test": "latest",
+    "mocha": "latest",
+    "chai": "latest",
+    "chai-as-promised": "latest",
+    "colors": "latest"
+  }
+}
